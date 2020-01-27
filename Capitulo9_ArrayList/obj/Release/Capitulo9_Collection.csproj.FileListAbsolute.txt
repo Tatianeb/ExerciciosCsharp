@@ -1,0 +1,9 @@
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo9_ArrayList\bin\Release\Capitulo9_ArrayList.exe.config
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo9_ArrayList\bin\Release\Capitulo9_ArrayList.exe
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo9_ArrayList\bin\Release\Capitulo9_ArrayList.pdb
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo9_ArrayList\obj\Release\Capitulo9_ArrayList.FormArrayList.resources
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo9_ArrayList\obj\Release\Capitulo9_ArrayList.FormStack.resources
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo9_ArrayList\obj\Release\Capitulo9_ArrayList.Properties.Resources.resources
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo9_ArrayList\obj\Release\Capitulo9_Collection.csproj.GenerateResource.Cache
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo9_ArrayList\obj\Release\Capitulo9_ArrayList.exe
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo9_ArrayList\obj\Release\Capitulo9_ArrayList.pdb

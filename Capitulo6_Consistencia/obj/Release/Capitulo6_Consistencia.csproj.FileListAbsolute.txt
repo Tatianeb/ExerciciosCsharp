@@ -1,0 +1,8 @@
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo6_Consistencia\bin\Release\Capitulo6_Consistencia.exe.config
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo6_Consistencia\bin\Release\Capitulo6_Consistencia.exe
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo6_Consistencia\bin\Release\Capitulo6_Consistencia.pdb
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo6_Consistencia\obj\Release\Capitulo6_Consistencia.lab01Form.resources
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo6_Consistencia\obj\Release\Capitulo6_Consistencia.Properties.Resources.resources
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo6_Consistencia\obj\Release\Capitulo6_Consistencia.csproj.GenerateResource.Cache
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo6_Consistencia\obj\Release\Capitulo6_Consistencia.exe
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo6_Consistencia\obj\Release\Capitulo6_Consistencia.pdb

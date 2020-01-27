@@ -1,0 +1,5 @@
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Oficina.DLL\bin\Release\Oficina.DLL.dll
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Oficina.DLL\bin\Release\Oficina.DLL.pdb
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Oficina.DLL\obj\Release\Oficina.DLL.dll
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Oficina.DLL\obj\Release\Oficina.DLL.pdb
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Oficina.DLL\obj\Release\Oficina.DLL.csprojResolveAssemblyReference.cache

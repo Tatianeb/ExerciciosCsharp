@@ -1,0 +1,8 @@
+C:\Projetos\Fundamentos.Lab01\Oficina.DLL\bin\Debug\Oficina.DLL.dll
+C:\Projetos\Fundamentos.Lab01\Oficina.DLL\bin\Debug\Oficina.DLL.pdb
+C:\Projetos\Fundamentos.Lab01\Oficina.DLL\obj\Debug\Oficina.DLL.dll
+C:\Projetos\Fundamentos.Lab01\Oficina.DLL\obj\Debug\Oficina.DLL.pdb
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Oficina.DLL\bin\Debug\Oficina.DLL.dll
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Oficina.DLL\bin\Debug\Oficina.DLL.pdb
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Oficina.DLL\obj\Debug\Oficina.DLL.dll
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Oficina.DLL\obj\Debug\Oficina.DLL.pdb

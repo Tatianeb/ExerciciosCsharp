@@ -1,0 +1,8 @@
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo8_Array\bin\Release\Capitulo8_Array.exe.config
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo8_Array\bin\Release\Capitulo8_Array.exe
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo8_Array\bin\Release\Capitulo8_Array.pdb
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo8_Array\obj\Release\Capitulo8_Array.Form1.resources
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo8_Array\obj\Release\Capitulo8_Array.Properties.Resources.resources
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo8_Array\obj\Release\Capitulo8_Array.csproj.GenerateResource.Cache
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo8_Array\obj\Release\Capitulo8_Array.exe
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Capitulo8_Array\obj\Release\Capitulo8_Array.pdb

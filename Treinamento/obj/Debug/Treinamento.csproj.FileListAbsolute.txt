@@ -1,0 +1,10 @@
+C:\Projetos\Fundamentos.Lab01\Treinamento\bin\Debug\Treinamento.dll
+C:\Projetos\Fundamentos.Lab01\Treinamento\bin\Debug\Treinamento.pdb
+C:\Projetos\Fundamentos.Lab01\Treinamento\obj\Debug\Treinamento.csprojResolveAssemblyReference.cache
+C:\Projetos\Fundamentos.Lab01\Treinamento\obj\Debug\Treinamento.dll
+C:\Projetos\Fundamentos.Lab01\Treinamento\obj\Debug\Treinamento.pdb
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Treinamento\bin\Debug\Treinamento.dll
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Treinamento\bin\Debug\Treinamento.pdb
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Treinamento\obj\Debug\Treinamento.csprojResolveAssemblyReference.cache
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Treinamento\obj\Debug\Treinamento.dll
+C:\Projetos\Tatiane\projetos\Fundamentos.Lab01\Treinamento\obj\Debug\Treinamento.pdb

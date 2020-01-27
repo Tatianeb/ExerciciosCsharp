@@ -1,0 +1,4 @@
+C:\Projetos\Fundamentos.Lab01\Oficina\bin\Debug\OficinaDLL.dll
+C:\Projetos\Fundamentos.Lab01\Oficina\bin\Debug\OficinaDLL.pdb
+C:\Projetos\Fundamentos.Lab01\Oficina\obj\Debug\OficinaDLL.dll
+C:\Projetos\Fundamentos.Lab01\Oficina\obj\Debug\OficinaDLL.pdb
